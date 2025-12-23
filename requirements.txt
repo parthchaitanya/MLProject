@@ -11,4 +11,8 @@ threadpoolctl==3.6.0
 tzdata==2025.3
 wheel==0.45.1
 dill==0.3.8
+
+xgboost==1.7.6
+catboost==1.2.8
+
 # -e .
