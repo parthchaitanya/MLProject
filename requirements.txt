@@ -10,3 +10,5 @@ six==1.17.0
 threadpoolctl==3.6.0
 tzdata==2025.3
 wheel==0.45.1
+dill==0.3.8
+# -e .
